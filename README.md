@@ -1,0 +1,1 @@
+Esse é um programa feito VISUALG com a finalidade de calcular a hipotenusa de determinado triângulo dado os catetos. Se o resultado X for exato, é mostrado apenas X. Se o resultado X for um número racional, é mostrado como "raiz de X"
